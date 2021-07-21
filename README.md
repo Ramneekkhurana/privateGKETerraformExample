@@ -12,8 +12,10 @@ Note - Disabling organization policies may have security repurcussions, please v
 
 
 
-terraform init 
-terraform plan 
+terraform init
+
+terraform plan
+
 terraform apply 
 
 
