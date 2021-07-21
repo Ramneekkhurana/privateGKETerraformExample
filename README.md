@@ -2,7 +2,7 @@
 
 Steps to Deploy GKE in Private mode 
 
-Note - Disabling organization policies may have security repurcussions, please validate with your orgnization Admin about that.
+Note - Disabling organization policies may have security repercussions, please validate with your orgnization Admin about if it's allowed.
 
 1 - Ensure OSLogin Organization Policy is disabled ( GKE currently doesn't support it ).
 
