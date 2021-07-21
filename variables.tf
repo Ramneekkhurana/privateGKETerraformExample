@@ -1,5 +1,5 @@
 variable "project_id" {
- default="gke-test-320301"
+ default=""
 }
 
 variable "region" {
